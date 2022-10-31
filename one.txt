@@ -1,1 +1,3 @@
 one exact text to be commited
+
+deleted third
