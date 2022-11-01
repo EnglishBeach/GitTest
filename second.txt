@@ -1,2 +1,1 @@
-Text to be deleted in future
-reset to stage
+Test code for reset
