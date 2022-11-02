@@ -1,2 +1,1 @@
-PC code added
-Stranger code
+test reset 1
