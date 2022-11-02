@@ -1,1 +1,3 @@
 test reset 3
+test reset 1
+1 add
